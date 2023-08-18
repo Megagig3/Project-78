@@ -1,0 +1,14 @@
+ body {
+   color:cyan;
+   background-color:fuchsia;
+ }
+
+ button {
+    width: 150px;
+    height: 100px;
+    color: rgb(28, 41, 221);
+    background-color: rgba(73, 237, 150, 0.869);
+    border-style: dashed;
+    font-size: 50px;
+ }
+  
